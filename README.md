@@ -1,5 +1,6 @@
-# MoverioIdea
-A integration of the Moverio bt200 with the Intellij Idea IDE
+# Moverio Idea
+An integration of the Moverio bt200 with the Intellij Idea IDE
+
 
 <div class="text large-12 columns">
     <p>This application will tie into your computers IDE and give you code completion suggestions, show search results, and provide you with a running queue of your projects build status.</p>
